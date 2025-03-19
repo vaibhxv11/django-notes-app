@@ -1,4 +1,4 @@
-# Simple Notes App By Vaibhav
+# Simple Notes App - VD
 
 This is a simple notes app built with React and Django.
 
